@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="Real Estate-white.svg"
+   id="svg682"
+   version="1.1"
+   height="15"
+   width="15">
+  <metadata
+     id="metadata688">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs686" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg682"
+     inkscape:window-maximized="0"
+     inkscape:window-y="1171"
+     inkscape:window-x="0"
+     inkscape:cy="7.5"
+     inkscape:cx="7.5"
+     inkscape:zoom="20.933333"
+     showgrid="false"
+     id="namedview684"
+     inkscape:window-height="480"
+     inkscape:window-width="648"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#ffffff"
+     id="path680"
+     d="M6.7502 13H11.85a.15.15 0 0 0 .15-.15V5.0372l-4.1358-2.449a.75.75 0 0 0-.7284 0L3.0002 5.037v7.813a.15.15 0 0 0 .15.15H6.7502zm2.4749 1.5H1.9502a.45.45 0 0 1-.45-.45V5.9252l-.3859.2286A.75.75 0 1 1 .386 4.8425l6.0214-3.5594a2.25 2.25 0 0 1 2.1854 0l6.0214 3.5594a.75.75 0 0 1-.7284 1.3113L13.5 5.9254V14.05a.45.45 0 0 1-.45.45H9.225z"
+     fill-rule="evenodd"
+     fill="#468966" />
+</svg>

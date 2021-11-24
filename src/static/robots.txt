@@ -1,0 +1,17 @@
+#
+#  .__   __.  _______ .______    _______  __  .__   __.
+#  |  \ |  | |   ____||   _  \  |   ____||  | |  \ |  |
+#  |   \|  | |  |__   |  |_)  | |  |__   |  | |   \|  |
+#  |  . `  | |   __|  |   ___/  |   __|  |  | |  . `  |
+#  |  |\   | |  |____ |  |      |  |     |  | |  |\   |
+#  |__| \__| |_______|| _|      |__|     |__| |__| \__|
+#
+#  * Hiring great engineers to build the next great financial technology platform!
+#  https://www.nepfin.com/about
+#
+
+User-agent: *
+
+Disallow: /meta.txt
+
+Sitemap: https://dealwatch.nepfin.com/sitemap.xml

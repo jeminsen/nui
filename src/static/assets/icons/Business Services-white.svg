@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="Business Services-white.svg"
+   id="svg144"
+   version="1.1"
+   height="15"
+   width="15">
+  <metadata
+     id="metadata150">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs148" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg144"
+     inkscape:window-maximized="0"
+     inkscape:window-y="243"
+     inkscape:window-x="2482"
+     inkscape:cy="7.5"
+     inkscape:cx="7.5"
+     inkscape:zoom="20.933333"
+     showgrid="false"
+     id="namedview146"
+     inkscape:window-height="480"
+     inkscape:window-width="642"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="fill:#ffffff"
+     id="path142"
+     d="M0 12.03V2.47C0 1.659.672 1 1.5 1h2.684c.592 0 1.16.229 1.581.636l.474.459c.14.136.33.212.527.212h5.984c1.243 0 2.25.988 2.25 2.206v7.516c0 1.219-1.007 2.206-2.25 2.206H2.25c-1.243 0-2.25-.987-2.25-2.206zm13.5-7.517a.743.743 0 0 0-.75-.735H6.766c-.592 0-1.16-.229-1.581-.637l-.474-.458a.758.758 0 0 0-.527-.212H1.5v9.558c0 .407.336.736.75.736h10.5c.414 0 .75-.33.75-.736V4.513z"
+     fill-rule="evenodd"
+     fill="#223E7D" />
+</svg>

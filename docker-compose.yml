@@ -1,0 +1,16 @@
+--- # --------------------------------------------
+
+# --------------------------------------------
+# Only to simulate a AWS deployment in local
+version: '3'
+
+services:
+    deal_watch_ui:
+        build:
+            context: ./
+            dockerfile: ops/Dockerfile
+            args:
+                app_env: staging
+        restart: always
+        ports:
+            - '3000:80'

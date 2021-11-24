@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="Healthcare-white.svg"
+   id="svg466"
+   version="1.1"
+   height="15"
+   width="15">
+  <metadata
+     id="metadata472">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs470" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg466"
+     inkscape:window-maximized="0"
+     inkscape:window-y="1171"
+     inkscape:window-x="0"
+     inkscape:cy="7.5"
+     inkscape:cx="7.5"
+     inkscape:zoom="20.933333"
+     showgrid="false"
+     id="namedview468"
+     inkscape:window-height="480"
+     inkscape:window-width="651"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     style="fill:#ffffff"
+     id="g464"
+     fill-rule="evenodd"
+     fill="none">
+    <path
+       style="fill:#ffffff"
+       id="path460"
+       d="M9.621 5.379L7.5 3.257A3 3 0 1 0 3.257 7.5L5.38 9.621 9.62 5.38zM2.197 8.56A4.5 4.5 0 1 1 8.56 2.197l4.242 4.242a4.5 4.5 0 1 1-6.364 6.364L2.197 8.561z"
+       fill="#2EB0DE" />
+    <path
+       style="fill:#ffffff"
+       id="path462"
+       d="M-1-1h17v17H-1z" />
+  </g>
+</svg>

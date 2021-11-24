@@ -1,0 +1,72 @@
+[
+   {
+      "name": "Business Services",
+      "bubbleIcon": "assets/bubble_icons/Business Services.svg",
+      "icon": "assets/icons/Business Services.svg",
+      "iconWhite": "assets/icons/Business Services-white.svg",
+      "color": "#223e7d"
+   },
+   {
+      "name": "Consumer",
+      "bubbleIcon": "assets/bubble_icons/Consumer.svg",
+      "icon": "assets/icons/Consumer.svg",
+      "iconWhite": "assets/icons/Consumer-white.svg",
+      "color": "#ed6d4e"
+   },
+   {
+      "name": "Healthcare",
+      "bubbleIcon": "assets/bubble_icons/Healthcare.svg",
+      "icon": "assets/icons/Healthcare.svg",
+      "iconWhite": "assets/icons/Healthcare-white.svg",
+      "color": "#2eb0de"
+   },
+   {
+      "name": "Financial Services",
+      "bubbleIcon": "assets/bubble_icons/Financial Services.svg",
+      "icon": "assets/icons/Financial Services.svg",
+      "iconWhite": "assets/icons/Financial Services-white.svg",
+      "color": "#0c8140"
+   },
+   {
+      "name": "Industrials",
+      "bubbleIcon": "assets/bubble_icons/Industrials.svg",
+      "icon": "assets/icons/Industrials.svg",
+      "iconWhite": "assets/icons/Industrials-white.svg",
+      "color": "#ff4242"
+   },
+   {
+      "name": "Telecom",
+      "bubbleIcon": "assets/bubble_icons/TMT.svg",
+      "icon": "assets/icons/TMT.svg",
+      "iconWhite": "assets/icons/TMT-white.svg",
+      "color": "#ffcc00"
+   },
+   {
+      "name": "Technology",
+      "bubbleIcon": "assets/bubble_icons/Information Technology.svg",
+      "icon": "assets/icons/Information Technology.svg",
+      "iconWhite": "assets/icons/Information Technology-white.svg",
+      "color": "#21BEDA"
+   },
+   {
+      "name": "Utilities",
+      "bubbleIcon": "assets/bubble_icons/Utilities.svg",
+      "icon": "assets/icons/Utilities.svg",
+      "iconWhite": "assets/icons/Utilities-white.svg",
+      "color": "#e4c520"
+   },
+   {
+      "name": "Real Estate",
+      "bubbleIcon": "assets/bubble_icons/Real Estate.svg",
+      "icon": "assets/icons/Real Estate.svg",
+      "iconWhite": "assets/icons/Real Estate-white.svg",
+      "color": "#468966"
+   },
+   {
+      "name": "Government",
+      "bubbleIcon": "assets/bubble_icons/Government.svg",
+      "icon": "assets/icons/Government.svg",
+      "iconWhite": "assets/icons/Government-white.svg",
+      "color": "#0f1e32"
+   }
+]

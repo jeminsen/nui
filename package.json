@@ -1,0 +1,79 @@
+{
+    "name": "deal-watch",
+    "version": "1.0.0",
+    "author": "NepFin Engineering",
+    "description": "Business Intelligence and Broad Market Research for the Lower Middle Market",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "build:dev": "NODE_ENV=development nuxt build",
+        "build:staging": "NODE_ENV=staging nuxt build",
+        "build:prod": "NODE_ENV=production nuxt build",
+        "start:dev": "NODE_ENV=development nuxt start",
+        "start:staging": "NODE_ENV=staging nuxt start",
+        "start:prod": "NODE_ENV=production nuxt start",
+        "generate": "nuxt generate",
+        "lint": "eslint --ext .js,.vue .",
+        "lint:fix": "eslint --ext .js,.vue --fix .",
+        "test": "jest",
+        "test:unit": "npm run test"
+    },
+    "lint-staged": {
+        "*.{js,vue}": "eslint"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "dependencies": {
+        "@hubspot/api-client": "^5.0.0",
+        "@nuxtjs/auth": "yangineer/auth-module.git#yangineer-patch-1",
+        "@nuxtjs/axios": "^5.7.1",
+        "@nuxtjs/dotenv": "^1.4.1",
+        "@nuxtjs/google-analytics": "^2.2.0",
+        "@nuxtjs/sentry": "^3.0.1",
+        "@nuxtjs/sitemap": "^2.0.1",
+        "@nuxtjs/vuetify": "^2.0.0-alpha.0",
+        "js-file-download": "^0.4.8",
+        "lodash": "^4.17.15",
+        "material-design-icons": "^3.0.1",
+        "moment": "^2.24.0",
+        "net": "^1.0.2",
+        "normalize.css": "^8.0.1",
+        "nui": "git+ssh://git@gitlab.com:Peakrock/nui.git",
+        "nuxt": "^2.10.2",
+        "postcss-mixins": "^6.2.2",
+        "tls": "^0.0.1",
+        "url-slug": "^2.2.0",
+        "vue-cookie-law": "^1.13.3",
+        "vue-simple-spinner": "^1.2.8",
+        "vue-styled-components": "^1.4.13",
+        "vuelidate": "^0.7.4",
+        "vuetify": "^2.1.6"
+    },
+    "devDependencies": {
+        "@babel/runtime-corejs3": "^7.7.2",
+        "@nuxtjs/eslint-config": "^1.0.1",
+        "@nuxtjs/eslint-module": "^1.0.0",
+        "@vue/babel-preset-app": "^4.0.5",
+        "@vue/test-utils": "^1.0.0-beta.27",
+        "babel-eslint": "^10.0.1",
+        "babel-jest": "^24.1.0",
+        "core-js": "^3.4.1",
+        "eslint": "^6.1.0",
+        "eslint-config-prettier": "^4.1.0",
+        "eslint-plugin-nuxt": ">=0.4.2",
+        "eslint-plugin-prettier": "^3.0.1",
+        "file-loader": "^4.2.0",
+        "fs": "^0.0.1-security",
+        "husky": "^2.6.0",
+        "jest": "^24.1.0",
+        "lint-staged": "^8.2.1",
+        "prettier": "^1.16.4",
+        "sass": "^1.23.0",
+        "sass-loader": "^8.0.0",
+        "vue-jest": "^4.0.0-0"
+    }
+}

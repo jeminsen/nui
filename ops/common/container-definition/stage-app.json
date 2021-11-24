@@ -1,0 +1,24 @@
+{
+    "portMappings": [
+        {
+            "hostPort": 0,
+            "containerPort": 80,
+            "protocol": "tcp"
+        }
+    ],
+    "essential": true,
+    "mountPoints": [],
+    "name": "nepfin-deal-watch",
+    "environment": [],
+    "image": "040858914441.dkr.ecr.us-west-2.amazonaws.com/nepfin-deal-watch-stage:latest",
+    "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+            "awslogs-group": "aws-nepfin-stage-dealwatch",
+            "awslogs-region": "us-west-2",
+            "awslogs-stream-prefix": "nepfin-dealwatch"
+        }
+    },
+    "cpu": 0,
+    "memoryReservation": 512
+}

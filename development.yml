@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+    app:
+        build:
+            context: ./
+            dockerfile: ops/Dockerfile
+            args:
+                app_env: '${appenv}'
+        restart: always
+        ports:
+            - '3000:80'

@@ -1,0 +1,5 @@
+.nuxt
+coverage
+dist
+ops
+src/static/js/css-grid-polyfill.js

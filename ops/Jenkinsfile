@@ -1,0 +1,45 @@
+library 'JenkinsFile'
+
+node {
+
+    try {
+
+        stages.setUp()
+
+        notification.notifyBuild('STARTED')
+
+        stages.checkoutCode()
+
+        stages.copySshKey()
+
+        stages.createMeta()
+
+        stages.runJsUnitTest()
+
+        stages.buildImage()
+
+        stages.deleteSshKey()
+
+        stages.pushDocker()
+
+        stages.updateEcsTasks()
+
+    } catch (e) {
+        // If there was an exception thrown, the build failed
+        currentBuild.result = "FAILED"
+        throw e
+    } finally {
+
+        try {
+            stages.stopContainer()
+        } catch (err) {
+            echo "=============================================="
+            echo "Failed to stop container"
+            echo "=============================================="
+        }
+
+        // Success or failure, always send notifications
+        notification.notifyBuild(currentBuild.result)
+    }
+}
+
